@@ -93,7 +93,7 @@ interface Task {
 - Структура данных в LocalStorage:
   ```json
   {
-    "projects": [  Project[]  ],
+    "projects": [],
     "filters": {
       "statuses": [ "todo", "done", "in-progress" ],
       "tags": [ "work", "personal" ],
